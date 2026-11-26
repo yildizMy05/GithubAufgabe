@@ -1,1 +1,2 @@
-#Aufgabenblatt 2 --> Aufgabe: Git und Github
+# Arbeitsblatt 2
+Aufgabe 3: Git und Github 
